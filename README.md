@@ -36,6 +36,26 @@ https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblo
 
 ![image](https://github.com/Haj4li/CodeBlocksOpenGLSetup/assets/48994331/79ab172a-dac0-40fb-9f2b-7d4cfc8cf5bb)
 
+نصب کد بلاکس به پایان رسید، از این مرحله به بعد در مورد پیکربندی opengl صحبت خواهیم کرد، در صورت تمایل و بررسی درست پیش رفتن مراحل نصب میتوانید کد بلاکس را یک بار اجرا کنید. 
+
+![image](https://github.com/Haj4li/CodeBlocksOpenGLSetup/assets/48994331/5c9008e9-86ea-4f96-99bc-b9e6538d6248)
+
+
+
+--------------------------
+
+کتابخانه opengl به صورت پیشفرض روی تمام سیستم عامل های ویندوز نصب است، اما برای توسعه نرم افزار با کمک این کتابخانه ما نیاز به برخی کتابخانه های جانبی داریم، یکی از این کتابخانه ها freeglut است.
+
+فایل های freeglut را از وبسایت زیر دریافت کنید:
+
+https://freeglut.sourceforge.net/index.php#download
+
+از این قسمت روی اخرین نسخه freeglut کلیک کنید
+
+![image](https://github.com/Haj4li/CodeBlocksOpenGLSetup/assets/48994331/c262f0f4-adc0-440c-8152-9d0f67df395c)
+
+
+
 
 
 
