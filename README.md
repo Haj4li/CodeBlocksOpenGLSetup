@@ -20,7 +20,8 @@ https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblo
 
 مرحله بعدی نصب کد بلاکس است، که میتوانید با کلیک روی فایل نصب دانلود شده این کار را انجام دهید.
 
-![image](https://github.com/Haj4li/CodeBlocksOpenGLSetup/assets/48994331/258cff7f-1e1d-45d2-aa92-5778e85504b4)
+![image](https://github.com/Haj4li/CodeBlocksOpenGLSetup/assets/48994331/3309b471-b16f-4082-bd52-e9e7c8837749)
+
 
 ![image](https://github.com/Haj4li/CodeBlocksOpenGLSetup/assets/48994331/96eced3f-7bc7-40ba-a9ff-2b383e15ddb8)
 
