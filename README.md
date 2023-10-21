@@ -69,13 +69,18 @@ https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblo
 یاهم که به صورت دستی هر فایل رو در پوشه مناسب خودش قرار بدید(فایل ها به صورت آماده در مسیر های مورد نظر توی فایل freeglut.rar قرار دارند)
 
 در نهایت فایل freeglut.dll رو از لینک زیر دریافت کنید:
+
 [freeglut.dll](https://github.com/Haj4li/CodeBlocksOpenGLSetup/blob/main/freeglut.dll)
+
 
 و توی مسیر های زیر کپی کنید:
 
 C:\Windows
+
 C:\Windows\System
+
 C:\Windows\System32
+
 
 
 حالا کدبلاکس رو باز کنید و از قسمت New Project این مورد رو انتخاب کنید:
