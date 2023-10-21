@@ -46,9 +46,9 @@ https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblo
 
 کتابخانه opengl به صورت پیشفرض روی تمام سیستم عامل های ویندوز نصب است، اما برای توسعه نرم افزار با کمک این کتابخانه ما نیاز به برخی کتابخانه های جانبی داریم، یکی از این کتابخانه ها freeglut است.
 
-فایل های freeglut را از وبسایت زیر دریافت کنید:
+فایل های freeglut را از لینک زیر دریافت کنید:
 
-https://freeglut.sourceforge.net/index.php#download
+[FreeGLUT](https://github.com/Haj4li/CodeBlocksOpenGLSetup/blob/main/freeglut.rar)
 
 از این قسمت روی اخرین نسخه freeglut کلیک کنید
 
