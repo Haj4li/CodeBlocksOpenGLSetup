@@ -50,13 +50,68 @@ https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblo
 
 [FreeGLUT](https://github.com/Haj4li/CodeBlocksOpenGLSetup/blob/main/freeglut.rar)
 
-از این قسمت روی اخرین نسخه freeglut کلیک کنید
-
-![image](https://github.com/Haj4li/CodeBlocksOpenGLSetup/assets/48994331/c262f0f4-adc0-440c-8152-9d0f67df395c)
+برای ساده تر شدن کار میتوانید فایل هارو مستقیما در پوشه نصب کدبلاکس استخراج کنید:
 
 
+![image](https://github.com/Haj4li/CodeBlocksOpenGLSetup/assets/48994331/882cb46c-7251-4f16-a755-8fe2b9a4fcc7)
+
+![image](https://github.com/Haj4li/CodeBlocksOpenGLSetup/assets/48994331/b0de8463-c216-4f78-8de8-d8dd3df9daec)
 
 
+یاهم که به صورت دستی هر فایل رو در پوشه مناسب خودش قرار بدید(فایل ها به صورت آماده در مسیر های مورد نظر توی فایل freeglut.rar قرار دارند)
+
+در نهایت فایل freeglut.dll رو از لینک زیر دریافت کنید:
+[freeglut.dll](https://github.com/Haj4li/CodeBlocksOpenGLSetup/blob/main/freeglut.dll)
+
+و توی مسیر های زیر کپی کنید:
+
+C:\Windows
+C:\Windows\System
+C:\Windows\System32
+
+
+حالا کدبلاکس رو باز کنید و از قسمت New Project این مورد رو انتخاب کنید:
+
+![image](https://github.com/Haj4li/CodeBlocksOpenGLSetup/assets/48994331/30aa81b2-c6a4-4fae-bb6c-d7f45585ddb7)
+
+در این قسمت یک نام و یک مسیر برای پروژه انتخاب کنید:
+
+![image](https://github.com/Haj4li/CodeBlocksOpenGLSetup/assets/48994331/5b835d16-2ec5-4c8d-8316-a1d0da741ca2)
+
+
+در این قسمت اگر به مشکل خوردید از دکمه کنار مسیر مورد نظر برای کامپایلر رو انتخاب کنید: (تنها اگر به مشکل برخورد کردید این کار رو بکنید، کافیه کلید next رو بزنید و اگر خطا نداد ادامه بدید)
+
+![image](https://github.com/Haj4li/CodeBlocksOpenGLSetup/assets/48994331/217d2745-5db3-4077-817c-6171f853a9ee)
+
+مسیر مورد نیاز برای کامپایلر به این شکل هست :
+
+C:\Program Files\CodeBlocks\MinGW\x86_64-w64-mingw32
+
+بنا بر تنظیمات شما ممکن است مسیر نصب متفاوت باشد!
+
+
+حالا از قسمت بالا روی دکمه Build & Run کلیک کنید.
+
+![image](https://github.com/Haj4li/CodeBlocksOpenGLSetup/assets/48994331/3f6a4172-efb7-4e68-b9fb-69e1082cbec3)
+
+
+نتیجه کار به این شکل خواهد بود:
+
+![image](https://github.com/Haj4li/CodeBlocksOpenGLSetup/assets/48994331/fdae7343-09d6-49a6-9a98-f98030746211)
+
+در صورتی که اتفاقی نیوفتاد ممکن است مسیر کامپایلر اصلی کدبلاکس مشخص نشده باشد، برای مشخص کردن این مسیر کافیه از قسمت تنظیمات بخش کامپایلر اقدام کنید: 
+
+![image](https://github.com/Haj4li/CodeBlocksOpenGLSetup/assets/48994331/a310e7f4-61ac-47d8-94e1-bbf38b785750)
+
+![image](https://github.com/Haj4li/CodeBlocksOpenGLSetup/assets/48994331/dfd6897f-acbe-4568-9bdb-234c061db95a)
+
+اگر کامپایلر کدبلاکس تنها کامپایلر نصب شده روی سیستم شماست میتونید از دکمه Auto Detect هم استفاده کنید.
+
+در نهایت دکمه OK رو بزنید و برنامه باید بدون مشکل اجرا بشه.
+
+تهیه شده توسط علی نخعی
+آیدی تلگرام: https://t.me/CodePerson
+موفق باشید 💜
 
 
 
